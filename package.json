@@ -1,8 +1,8 @@
 {
   "name": "chieu-doi-do-chat",
   "version": "1.0.0",
-  "dependencies": {
-    "@google/generative-ai": "^0.1.3"
+  "type": "module",
+  "engines": {
+    "node": "18.x"
   }
 }
-
